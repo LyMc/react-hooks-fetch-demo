@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-hooks-fetch-demo/static/css/main.6f0ee892.chunk.css",
+    "main.js": "/react-hooks-fetch-demo/static/js/main.015241f3.chunk.js",
+    "main.js.map": "/react-hooks-fetch-demo/static/js/main.015241f3.chunk.js.map",
+    "runtime-main.js": "/react-hooks-fetch-demo/static/js/runtime-main.522df524.js",
+    "runtime-main.js.map": "/react-hooks-fetch-demo/static/js/runtime-main.522df524.js.map",
+    "static/js/2.1867e522.chunk.js": "/react-hooks-fetch-demo/static/js/2.1867e522.chunk.js",
+    "static/js/2.1867e522.chunk.js.map": "/react-hooks-fetch-demo/static/js/2.1867e522.chunk.js.map",
+    "index.html": "/react-hooks-fetch-demo/index.html",
+    "static/css/main.6f0ee892.chunk.css.map": "/react-hooks-fetch-demo/static/css/main.6f0ee892.chunk.css.map",
+    "static/js/2.1867e522.chunk.js.LICENSE.txt": "/react-hooks-fetch-demo/static/js/2.1867e522.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.522df524.js",
+    "static/js/2.1867e522.chunk.js",
+    "static/css/main.6f0ee892.chunk.css",
+    "static/js/main.015241f3.chunk.js"
+  ]
+}
