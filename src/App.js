@@ -27,7 +27,7 @@ const useFetch = (url, deps = undefined, conditional = false) => {
         setState({ status: 'resolved', data });
       })
       .catch(err => setState({ status: 'rejected', error: err.message }));
-  }, [...deps, url, conditional]);
+  }, [...deps, url, conditional]); // eslint-disable-line react-hooks/exhaustive-deps
 
   return state;
 };
